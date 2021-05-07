@@ -1,0 +1,4 @@
+config.json
+/public/img
+
+!/public/img/icon.png
